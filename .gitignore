@@ -5,4 +5,4 @@ venv/
 *.sqlite3
 *.sqlite
 __pycache__/
-
+/logs.json
