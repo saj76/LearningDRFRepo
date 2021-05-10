@@ -2,3 +2,5 @@ venv/
 *.log
 .env
 .idea/
+*.sqlite3
+*.sqlite
